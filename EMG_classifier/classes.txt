@@ -1,0 +1,5 @@
+FLEX_RIGHT - hand is flexed to the right --> 5
+FLEX_LEFT - hand is flex to the left --> 2
+PINKY - only a pinky finger is flexed outward -->3
+FIST - fist is flexed -->1
+REST - hand is resting -->4
