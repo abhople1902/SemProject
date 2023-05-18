@@ -14,5 +14,5 @@ This project has the basic 5 ML models for classification of EMG signals (sensor
 <hr></hr>
 <h4>Credit for sensor data</h4>
 <br>
-[Yegor Chsherbatykh](https://github.com/yegorsch)
+Yegor Chsherbatykh - https://github.com/yegorsch
 
