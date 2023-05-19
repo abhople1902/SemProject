@@ -7,7 +7,7 @@ This project has the basic 5 ML models for classification of EMG signals (sensor
 
 ## Authors
 <a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+  <img src="https://contrib.rocks/image?repo=abhople1902/SemProject" />
 </a>
 
 
