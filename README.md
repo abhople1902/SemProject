@@ -1,11 +1,11 @@
-# SemProject
-## Classification of EMG signals into classes using supervised learning
+## Engineering 6th Semester Project
+### Classification of EMG signals into classes using supervised learning
 This project has the basic 5 ML models for classification of EMG signals (sensor data from arm-band) into 5 classes of hand gestures.
 
 
 
 
-## Authors
+### Authors
 <a href="https://github.com/OWNER/REPO/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=abhople1902/SemProject" />
 </a>
