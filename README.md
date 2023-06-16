@@ -1,7 +1,8 @@
 ## Engineering 6th Semester Project
-### Classification of EMG signals into classes using supervised learning
-This project has the basic 5 ML models for classification of EMG signals (sensor data from arm-band) into 5 classes of hand gestures.
+### Classification of EMG signals into classes using supervised learning and using them for human-computer interaction
+This project has the basic 5 ML models for classifying EMG signals (sensor data from arm-band) into 5 classes of hand gestures.
 
+According to the current version these gestures each have  a shell script associated. So as soon as they are predicted the task in that particular shell script would be carried out.
 
 
 
